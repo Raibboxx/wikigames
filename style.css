@@ -1,0 +1,56 @@
+<style>
+    body{
+        background-image: url(black.jpg);
+    }
+    .imagem1{
+        background-image: url(ragnarok.jpg);
+        height: 600px;
+        width: 700px;
+        position: absolute;
+        position: fixed;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        background-position: center, center;
+        top: 15%;
+        right: 50%;
+        left: 10%;
+    }
+    .titulo1{
+        width: 250px;
+        height: 250px;
+        font-size: 50px;
+        position: absolute;
+        position: fixed;
+        top: 5%;
+        left: 22cm;
+        text-align: center;
+        color: rgb(51, 51, 255);
+        }
+        .titulo2{
+        width: 250px;
+        font-size: 20px;
+        position: absolute;
+        position: fixed;
+        left: 21.6cm;
+        top: 11%;
+        padding: 1%;
+        text-align: center;
+        color: white;
+}
+</style>
+<body>
+<div class="imagem1">
+<div class="titulo1">God of War
+<div class="titulo2">Tudo oque você precisa saber!
+<div>
+<div>
+<div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p></p>    
+</body>
